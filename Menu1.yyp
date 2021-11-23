@@ -1,6 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"o_music","path":"objects/o_music/o_music.yy",},"order":4,},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":2,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":16,},
+    {"id":{"name":"m_combat","path":"sounds/m_combat/m_combat.yy",},"order":5,},
     {"id":{"name":"r_game","path":"rooms/r_game/r_game.yy",},"order":3,},
     {"id":{"name":"o_menu","path":"objects/o_menu/o_menu.yy",},"order":1,},
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},"order":0,},
